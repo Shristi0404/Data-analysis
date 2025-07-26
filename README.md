@@ -26,7 +26,7 @@ This project involved analyzing one year of sales data from Vrinda Store. Using 
 
 ### 📸 Dashboard Preview
 
-![Excel Dashboard](images/vrinda_excel_dashboard.png)
+![Excel Dashboard](https://github.com/Shristi0404/Data-analysis/blob/main/project%20excel.pdf)
 
 ---
 
