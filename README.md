@@ -56,7 +56,7 @@ This project analyzed transactional data from a fictional coffee shop to identif
 
 ### 📸 Dashboard Preview
 
-![Power BI Dashboard](images/coffee_powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/Shristi0404/Data-analysis/blob/main/powerbi%20dashboard.pbix)
 
 ---
 
